@@ -1,4 +1,4 @@
 # TO DO APP ❤️ Made with Flutter
 
 Full tutorial here: https://youtu.be/mMgr47QBZWA
-![Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of  (58)](https://github.com/axndmathias/flutter_todo_hive/assets/8337562/06911671-3fee-43cc-8370-52ccd293c6a5)
+![deviceframes](https://github.com/axndmathias/flutter_todo_hive/assets/8337562/187a25ab-c637-4ac7-936e-263dde453b2c)
