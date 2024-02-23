@@ -81,7 +81,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       backgroundColor: Colors.deepPurple[200],
       appBar: AppBar(
-        title: const Text('TO DO'),
+        title: const Text('Flutter TO DO'),
         elevation: 0,
         centerTitle: true,
         backgroundColor: Colors.deepPurple,
