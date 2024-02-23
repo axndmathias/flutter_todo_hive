@@ -8,7 +8,7 @@ class TodoButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialButton(
-      color: Colors.purple,
+      color: Colors.deepPurple,
       onPressed: onPressed,
       child: Text(text),
     );
