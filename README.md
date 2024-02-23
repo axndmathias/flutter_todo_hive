@@ -1,4 +1,7 @@
-# TO DO APP ❤️ Made with Flutter
+# TO DO APP with Hive ❤️ Made with Flutter
 
-Full tutorial here: https://youtu.be/mMgr47QBZWA
-![deviceframes](https://github.com/axndmathias/flutter_todo_hive/assets/8337562/187a25ab-c637-4ac7-936e-263dde453b2c)
+
+![deviceframes (2)](https://github.com/axndmathias/flutter_todo_hive/assets/8337562/fbcfb49c-068a-42ef-bea4-d604710c302d)
+
+<br>
+<p align="center">Feito com ♥ by axnd</p>
